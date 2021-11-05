@@ -1,8 +1,9 @@
-# About
+# jeff de lara / software engineer / full-stack dev
 
 Hi 👋. I'm Jeff (@jeffdelara) and I'm passionate about programming. I love reading books and exploring what I can do with coding 🌱. 
 
-### 📫 How to reach me
+Reach me at:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreydelara/)
 
 <!---
